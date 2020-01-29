@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+     <report
+        id="report_ingredientes_card"
+        model="panaderia.ingredientes"
+        string="Report Panaderia"
+        report_type="qweb-pdf"
+        name="empresamoduloOdoo.report_ingredientes"
+        file="empresamoduloOdoo.report_ingredientes"
+    />
+</odoo>
